@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/covid_19_chile_projection/static/css/main.5f361e03.chunk.css",
+    "main.js": "/covid_19_chile_projection/static/js/main.fc7cd403.chunk.js",
+    "main.js.map": "/covid_19_chile_projection/static/js/main.fc7cd403.chunk.js.map",
+    "runtime-main.js": "/covid_19_chile_projection/static/js/runtime-main.f64e335a.js",
+    "runtime-main.js.map": "/covid_19_chile_projection/static/js/runtime-main.f64e335a.js.map",
+    "static/js/2.43f30292.chunk.js": "/covid_19_chile_projection/static/js/2.43f30292.chunk.js",
+    "static/js/2.43f30292.chunk.js.map": "/covid_19_chile_projection/static/js/2.43f30292.chunk.js.map",
+    "index.html": "/covid_19_chile_projection/index.html",
+    "precache-manifest.bda8ab9847e75745cedc62a91203a1ed.js": "/covid_19_chile_projection/precache-manifest.bda8ab9847e75745cedc62a91203a1ed.js",
+    "service-worker.js": "/covid_19_chile_projection/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/covid_19_chile_projection/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.43f30292.chunk.js.LICENSE.txt": "/covid_19_chile_projection/static/js/2.43f30292.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/covid_19_chile_projection/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f64e335a.js",
+    "static/js/2.43f30292.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fc7cd403.chunk.js"
+  ]
+}
